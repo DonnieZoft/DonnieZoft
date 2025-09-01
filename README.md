@@ -1,6 +1,6 @@
 <div align="center">
   <img src=".github/assets/corner-top-left.svg"  width="10%" height="80" alt=""><img
-  src=".github/assets/band-top-480.svg"         width="80%" height="48" alt=""><img
+  src=".github/assets/band-top.svg"         width="80%" height="48" alt=""><img
   src=".github/assets/corner-top-right.svg"     width="10%" height="80" alt="">
 
   <img src=".github/assets/edge-left.svg"  align="left"  width="10%" height="260" alt=""><img
@@ -20,6 +20,6 @@
   <br clear="both">
 
   <img src=".github/assets/corner-bottom-left.svg" width="10%" height="80" alt=""><img
-  src=".github/assets/band-bottom-480.svg"       width="80%" height="48" alt=""><img
+  src=".github/assets/band-bottom.svg"       width="80%" height="48" alt=""><img
   src=".github/assets/corner-bottom-right.svg"    width="10%" height="80" alt="">
 </div>
