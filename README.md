@@ -8,7 +8,8 @@
         <div align="center">
           <img height="200" src=".github/assets/LogoDonnie.png"  />
         </div>  
-    <b align="center">Hello, I'm Donnie. Passionate about coding, gaming & creating.</b> 
+    <b align="center">Hello, I'm Donnie. Passionate about coding, gaming & creating.</b>
+    <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
       <img width="12"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
         height="40" alt="HTML5"> <img width="12"> <img
