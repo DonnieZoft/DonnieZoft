@@ -11,6 +11,8 @@
     <br>
     <b align="center">Hello, I'm Donnie. Passionate about coding, gaming & creating.</b>
     <br>
+    <br>
+    <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
       <img width="12"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
         height="40" alt="HTML5"> <img width="12"> <img
