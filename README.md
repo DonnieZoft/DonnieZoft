@@ -7,7 +7,7 @@
 <body bgcolor="black">
   <div align="center">
     <img src=".github/assets/corner-top-left.svg" width="80" height="80" alt=""><img src=".github/assets/edge-top.svg"
-      width="720" height="48" alt=""><img src=".github/assets/corner-top-right.svg" width="100%" height="80" alt="">
+      width="100%" height="48" alt=""><img src=".github/assets/corner-top-right.svg" width="80" height="80" alt="">
     <img src=".github/assets/edge-left.svg" align="left" width="80" height="320" alt=""><img
       src=".github/assets/edge-right.svg" align="right" width="80" height="320" alt="">
     <div align="center">
