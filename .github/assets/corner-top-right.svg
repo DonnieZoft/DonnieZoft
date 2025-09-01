@@ -1,1 +1,7 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="400 0 100 100" preserveAspectRatio="none">
+  <defs><clipPath id="ctr"><rect x="400" y="0" width="100" height="100"></rect></clipPath></defs>
+  <rect x="8" y="8" width="484" height="484" rx="36" fill="none" stroke="#2e39b3" stroke-width="6" clip-path="url(#ctr)"></rect>
+  <rect x="18" y="18" width="464" height="464" rx="30" fill="none" stroke="#646ad6" stroke-width="5" clip-path="url(#ctr)"></rect>
+  <rect x="30" y="30" width="440" height="440" rx="24" fill="none" stroke="#3746cc" stroke-width="5" clip-path="url(#ctr)"></rect>
+  <rect x="42" y="42" width="416" height="416" rx="18" fill="none" stroke="#05abf7" stroke-width="3" clip-path="url(#ctr)"></rect>
+</svg>
