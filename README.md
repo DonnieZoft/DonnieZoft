@@ -9,7 +9,7 @@
           <img height="200" src=".github/assets/LogoDonnie.png"  />
         </div>  
     <br>
-    <b align="center">Hello, I'm Donnie. Passionate about coding, gaming & creating.</b>
+    <b align="center">##Hello, I'm Donnie. Passionate about coding, gaming & creating.</b>
     <br>
     <br>
     <br>
