@@ -1,7 +1,16 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body bgcolor="black">
 <div align="center">
-  <img src=".github/assets/band-top.svg" width="520" alt="">
-  <img src=".github/assets/edge-left.svg"  align="left"  width="80" height="280" alt=""><img
-  src=".github/assets/edge-right.svg" align="right" width="80" height="280" alt="">
+  <div>
+    <img src=".github/assets/band-top.svg" width="520" alt="">
+  </div>
+  <div>
+    <img src=".github/assets/edge-left.svg"  align="left"  width="80" height="280" alt="">
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
     <img width="12">
@@ -17,6 +26,13 @@
     <img width="12">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
   </div>
+      <img src=".github/assets/edge-right.svg" align="right" width="80" height="280" alt="">
+  </div>
+  <div>
   <br clear="both">
   <img src=".github/assets/band-bottom.svg" width="520" alt="">
+  </div>
 </div>
+</body>
+</html>
+
