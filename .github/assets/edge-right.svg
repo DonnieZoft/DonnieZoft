@@ -50,36 +50,36 @@
      id="g4"
      transform="matrix(0.83520105,0,0,1,15.857975,0)">
     <line
-       x1="70"
+       x1="68"
        y1="-80"
-       x2="70"
+       x2="68"
        y2="580"
        stroke="#2e39b3"
        stroke-width="6"
        id="line1"
        style="stroke-width:5.79936381;stroke-dasharray:none" />
     <line
-       x1="60"
+       x1="58"
        y1="-80"
-       x2="60"
+       x2="58"
        y2="580"
        stroke="#646ad6"
        stroke-width="5"
        id="line2"
        style="stroke-width:4.84739277;stroke-dasharray:none" />
     <line
-       x1="48"
+       x1="46"
        y1="-80"
-       x2="48"
+       x2="46"
        y2="580"
        stroke="#3746cc"
        stroke-width="5"
        id="line3"
        style="stroke-width:4.89007;stroke-dasharray:none" />
     <line
-       x1="37"
+       x1="35"
        y1="-80"
-       x2="37"
+       x2="35"
        y2="580"
        stroke="#05abf7"
        stroke-width="3"
