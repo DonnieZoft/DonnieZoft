@@ -46,9 +46,8 @@
   <g
      clip-path="url(#cut)"
      fill="none"
-     stroke-linecap="butt"
-     id="g4"
-     transform="matrix(0.83520105,0,0,1,15.857975,0)">
+     stroke-linecap="round" 
+     stroke-linejoin="round">
     <line
        x1="69.130371"
        y1="-80"
