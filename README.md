@@ -6,9 +6,17 @@
 </head>
 <body bgcolor="black">
   <table width="100%" cellspacing="0" cellpadding="0">
-      <div width="100%" cellspacing="0" cellpadding="0">
-      <div width="80" align="left" valign="bottom"><img src=".github/assets/corner-top-left.svg" width="80" height="80" alt=""></div><div align="center" valign="top"><img src=".github/assets/edge-top.svg" width="480" height="48" alt=""></div><div width="80" align="right" valign="bottom"><img src=".github/assets/corner-top-right.svg" width="80" height="80" alt=""></div>
-      </div>
+    <tr>
+      <td width="80" align="left" valign="bottom">
+        <img src=".github/assets/corner-top-left.svg" width="80" height="80" alt="">
+      </td>
+      <td align="center" valign="top">
+        <img src=".github/assets/edge-top.svg" width="100%" height="48" alt="">
+      </td>
+      <td width="80" align="right" valign="bottom">
+        <img src=".github/assets/corner-top-right.svg" width="80" height="80" alt="">
+      </td>
+    </tr>
     <tr>
       <td width="80" valign="top" align="left" background=".github/assets/edge-left.svg">
       </td>
