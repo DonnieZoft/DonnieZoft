@@ -1,1 +1,76 @@
-Hello World
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body bgcolor="black">
+  <table width="100%" cellspacing="0" cellpadding="0">
+
+    <!-- TOP -->
+    <tr>
+      <td width="80" align="left" valign="bottom">
+        <img src="./assets/corner-top-left.svg" width="80" height="80" alt="">
+      </td>
+      <td align="center" valign="top">
+        <img src="./assets/edge-top.svg" width="100%" height="48" alt="">
+      </td>
+      <td width="80" align="right" valign="bottom">
+        <img src="./assets/corner-top-right.svg" width="80" height="80" alt="">
+      </td>
+    </tr>
+
+    <!-- MITTE -->
+    <tr>
+      <td width="80" valign="top" align="left" background="./assets/edge-left.svg">
+        <!-- <img src="./assets/edge-left.svg" width="48" height="480" alt=""> -->
+      </td>
+      <!-- CENTER -->
+      <td valign="top">
+        <div align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"
+            alt="vscode logo" />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"
+            alt="html5 logo" />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"
+            alt="css logo" />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40"
+            alt="gimp logo" />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40"
+            alt="inkscape logo" />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40"
+            alt="msdos logo" />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
+            alt="python logo" />
+      </td>
+      <td width="80" valign="top" align="right" background="./assets/edge-right.svg">
+        <!-- <img src="./assets/edge-right.svg" width="48" height="480" alt=""> -->
+      </td>
+    </tr>
+
+    <!-- BOTTOM -->
+    <tr>
+      <td width="80" align="left" valign="bottom">
+        <img src="./assets/corner-bottom-left.svg" width="80" height="80" alt="">
+      </td>
+      <td align="center" valign="bottom">
+        <img src="./assets/edge-bottom.svg" width="100%" height="48" alt="">
+      </td>
+      <td width="80" align="right" valign="bottom">
+        <img src="./assets/corner-bottom-right.svg" width="80" height="80" alt="">
+      </td>
+    </tr>
+  </table>
+
+</body>
+
+</html>
