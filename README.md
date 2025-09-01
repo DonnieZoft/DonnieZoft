@@ -1,4 +1,4 @@
-<div width="600" align="center">
+<div align="center">
   <img src=".github/assets/corner-top-left.svg" valign="bottom" width="10%" height="80" alt=""><img
   src=".github/assets/edge-top.svg" valign="top" width="80%" height="48" alt=""><img
   src=".github/assets/corner-top-right.svg" valign="bottom" width="10%" height="80" alt="">
