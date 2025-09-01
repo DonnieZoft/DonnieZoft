@@ -6,7 +6,7 @@
 </head>
 <body bgcolor="black">
 <div align="center">
-  <img src=".github/assets/band-top.svg" width="560" alt="">
+  <img src=".github/assets/band-top.svg" width="880" alt="">
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
     <img width="12">
@@ -23,7 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
   </div>
   <br clear="both">
-  <img src=".github/assets/band-bottom.svg" width="560" alt="">
+  <img src=".github/assets/band-bottom.svg" width="880" alt="">
 </div>
 </body>
 </html>
