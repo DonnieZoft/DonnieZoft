@@ -1,1 +1,10 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 80">
+  <defs><clipPath id="top"><rect x="0" y="0" width="480" height="48"/></clipPath></defs>
+  <g clip-path="url(#top)" fill="none" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke">
+    <!-- Linien auf y = 11 / 20.5 / 32.5 / 43.5 -->
+    <path d="M 0 11 H 480"   stroke="#2e39b3" stroke-width="6"/>
+    <path d="M 0 20.5 H 480" stroke="#646ad6" stroke-width="5"/>
+    <path d="M 0 32.5 H 480" stroke="#3746cc" stroke-width="5"/>
+    <path d="M 0 43.5 H 480" stroke="#05abf7" stroke-width="3"/>
+  </g>
+</svg>
