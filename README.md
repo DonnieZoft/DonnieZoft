@@ -16,7 +16,7 @@
   </div>
   <br clear="both">
   <img src=".github/assets/corner-bottom-left.svg" width="80" height="80" alt=""><img
-  src=".github/assets/edge-bottom.svg" valign="top" width="520" height="48" alt=""><img
+  src=".github/assets/edge-bottom.svg" valign="bottom" width="520" height="48" alt=""><img
   src=".github/assets/corner-bottom-right.svg"  width="80" height="80" alt="">
 </div>
 </body>
