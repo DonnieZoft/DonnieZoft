@@ -5,6 +5,10 @@
   <img src=".github/assets/edge-left.svg" align="left"  width="10%" height="260" alt=""><img
   src=".github/assets/edge-right.svg" align="right" width="10%" height="260" alt="">
   <div width="80%" align="center">
+    <h1 align="center">Hello, I'm Donnie. Passionate about coding, gaming & creating.</h1>
+    <div align="center">
+      <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+    </div>   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
       <img width="12"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
         height="40" alt="HTML5"> <img width="12"> <img
