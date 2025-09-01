@@ -9,7 +9,7 @@
           <img height="200" src=".github/assets/LogoDonnie.png"  />
         </div>  
     <h2 align="center">Hello, my name is Donnie.</h2><br>
-    <img src=".github/assets/foi.svg" width="75%" height="">
+    <img src=".github/assets/foil.svg" width="75%">
     <p align="center">I’m an aspiring developer from Berlin, Germany, with a background in education. My current focus is <b><i>web and application development</i></b>, where I am continually expanding my skills.</p><br><br>
     <p align="justify">I enjoy getting to know new technologies and experimenting with creative solutions. In addition to coding, I enjoy gaming and streaming, where I connect with people and share my passion for interactive entertainment.</p></td>
     <br>
