@@ -1,7 +1,7 @@
 <div align="center">
   <div>
     <img src=".github/assets/corner-top-left.svg" width="80" height="80" alt=""><!--
- --><img src=".github/assets/edge-top.svg"          valign="bottom" width="480" height="48" alt=""><!--
+ --><img src=".github/assets/edge-top.svg"          valign="top" width="480" height="48" alt=""><!--
  --><img src=".github/assets/corner-top-right.svg"   width="80"  height="80" alt="">
   </div>
   <div>
