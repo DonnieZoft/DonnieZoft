@@ -12,7 +12,7 @@
         <img src=".github/assets/corner-top-left.svg" width="80" height="80" alt="">
       </div>
       <div align="center" valign="top">
-        <img src=".github/assets/edge-top.svg" width="100%" height="48" alt="">
+        <img src=".github/assets/edge-top.svg" width="480" height="48" alt="">
       </div>
       <div width="80" align="right" valign="bottom">
         <img src=".github/assets/corner-top-right.svg" width="80" height="80" alt="">
