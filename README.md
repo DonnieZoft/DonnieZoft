@@ -11,14 +11,14 @@
         <img src=".github/assets/corner-top-left.svg" width="80" height="80" alt="">
       </td>
       <td align="center" valign="top">
-        <img src="./github/assets/edge-top.svg" width="100%" height="48" alt="">
+        <img src=".github/assets/edge-top.svg" width="100%" height="48" alt="">
       </td>
       <td width="80" align="right" valign="bottom">
-        <img src="./github/assets/corner-top-right.svg" width="80" height="80" alt="">
+        <img src=".github/assets/corner-top-right.svg" width="80" height="80" alt="">
       </td>
     </tr>
     <tr>
-      <td width="80" valign="top" align="left" background="./github/assets/edge-left.svg">
+      <td width="80" valign="top" align="left" background=".github/assets/edge-left.svg">
       </td>
       <td valign="top">
         <div align="center">
@@ -43,18 +43,18 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
             alt="python logo" />
       </td>
-      <td width="80" valign="top" align="right" background="./github/assets/edge-right.svg">
+      <td width="80" valign="top" align="right" background=".github/assets/edge-right.svg">
       </td>
     </tr>
     <tr>
       <td width="80" align="left" valign="bottom">
-        <img src="./github/assets/corner-bottom-left.svg" width="80" height="80" alt="">
+        <img src=".github/assets/corner-bottom-left.svg" width="80" height="80" alt="">
       </td>
       <td align="center" valign="bottom">
-        <img src="./github/assets/edge-bottom.svg" width="100%" height="48" alt="">
+        <img src=".github/assets/edge-bottom.svg" width="100%" height="48" alt="">
       </td>
       <td width="80" align="right" valign="bottom">
-        <img src="./github/assets/corner-bottom-right.svg" width="80" height="80" alt="">
+        <img src=".github/assets/corner-bottom-right.svg" width="80" height="80" alt="">
       </td>
     </tr>
   </table>
