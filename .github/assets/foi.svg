@@ -23,7 +23,7 @@
   <foreignObject x="40" y="40" width="720" height="190">
     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; flex-direction: column; align-items: center;
                 width: 100%; height: 100%; font-family: sans-serif; color: white;">
-      <h2 style="text-align: center; margin: 0 0 20px 0;">Fields of Interest</h2>
+      <h2 style="text-align: center; margin: 0 0 20px 0;">ABOUT ME</h2>
       <p style="text-align: justify; font-size: 16px; line-height: 1.4; margin: 0; max-width: 90%;">
         I’m an aspiring developer from Berlin, Germany, with a background in education. 
         My current focus is <b><i>web and application development</i></b>, where I am continually expanding my skills.
