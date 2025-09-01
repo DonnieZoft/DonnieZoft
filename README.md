@@ -3,6 +3,8 @@
       src=".github/assets/edge-top.svg" valign="top" width="80%" height="48" alt=""><!-- --><img
       src=".github/assets/corner-top-right.svg" width="10%" height="80" alt=""> 
   </div>
+  <table>
+    <tr>
   <div> <img src=".github/assets/edge-left.svg" align="left" width="10%" height="260" alt=""><img
       src=".github/assets/edge-right.svg" align="right" width="10%" height="260" alt="">
     <div width="80%" align="center"> <img
@@ -18,6 +20,7 @@
         width="12"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
         alt="Python"> </div>
   </div>
+    </tr></table>
   <div width="520"> <img src=".github/assets/corner-bottom-left.svg" width="10%" height="80" alt=""><!-- --><img
       src=".github/assets/edge-bottom.svg" width="80%" height="48" alt=""><!-- --><img
       src=".github/assets/corner-bottom-right.svg" width="10%" height="80" alt=""> </div>
