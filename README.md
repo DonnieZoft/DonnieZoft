@@ -9,7 +9,7 @@
           <img height="200" src=".github/assets/LogoDonnie.png"  />
         </div>  
     <h2 align="center">Hello, my name is Donnie.</h2><br>
-    <p align="center">I’m an aspiring developer from Berlin, Germany, with a background in education. My current focus is **web and application development**, where I am continually expanding my skills.<br><br>I enjoy getting to know new technologies and experimenting with creative solutions.</p>
+    <p align="center">I’m an aspiring developer from Berlin, Germany, with a background in education. My current focus is <i>web and application development</i>, where I am continually expanding my skills.<br><br>I enjoy getting to know new technologies and experimenting with creative solutions.</p>
     <br>
     <br>
     <br>
