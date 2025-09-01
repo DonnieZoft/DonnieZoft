@@ -7,6 +7,7 @@
 <body bgcolor="black">
   <table width="100%" cellspacing="0" cellpadding="0">
     <tr>
+      <div>
       <td width="80" align="left" valign="bottom">
         <img src=".github/assets/corner-top-left.svg" width="80" height="80" alt="">
       </td>
@@ -16,6 +17,7 @@
       <td width="80" align="right" valign="bottom">
         <img src=".github/assets/corner-top-right.svg" width="80" height="80" alt="">
       </td>
+      </div>
     </tr>
     <tr>
       <td width="80" valign="top" align="left" background=".github/assets/edge-left.svg">
