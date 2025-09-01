@@ -22,14 +22,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="27.552"
-     inkscape:cx="44.025842"
-     inkscape:cy="240.87181"
+     inkscape:cx="44.461382"
+     inkscape:cy="7.2045587"
      inkscape:window-width="955"
      inkscape:window-height="1041"
-     inkscape:window-x="953"
-     inkscape:window-y="1"
+     inkscape:window-x="949"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g4"
+     inkscape:current-layer="svg4"
      showguides="true" />
   <defs
      id="defs1">
@@ -48,7 +48,7 @@
      fill="none"
      stroke-linecap="butt"
      id="g4"
-     transform="matrix(0.83520105,0,0,1,15.857975,0)">
+     transform="matrix(0.83520105,0,0,1,16.148335,0)">
     <line
        x1="69.130371"
        y1="-80"
@@ -57,7 +57,7 @@
        stroke="#2e39b3"
        stroke-width="6"
        id="line1"
-       style="stroke-width:5.79936381;stroke-dasharray:none" />
+       style="stroke-width:5.79936;stroke-dasharray:none" />
     <line
        x1="59.586914"
        y1="-80"
@@ -66,7 +66,7 @@
        stroke="#646ad6"
        stroke-width="5"
        id="line2"
-       style="stroke-width:4.84739277;stroke-dasharray:none" />
+       style="stroke-width:4.84739;stroke-dasharray:none" />
     <line
        x1="48.064938"
        y1="-80"
