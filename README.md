@@ -10,8 +10,8 @@
     <img src=".github/assets/band-top.svg" width="520" alt="">
   </div>
   <div>
-    <img src=".github/assets/edge-left.svg"  align="left"  width="80" height="280" alt="">
-  <div align="center">
+    <img src=".github/assets/edge-left.svg"  align="right"  width="80" height="280" alt="">
+  <div width="360" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
     <img width="12">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5">
@@ -26,7 +26,7 @@
     <img width="12">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
   </div>
-      <img src=".github/assets/edge-right.svg" align="right" width="80" height="280" alt="">
+      <img src=".github/assets/edge-right.svg" align="left" width="80" height="280" alt="">
   </div>
   <div>
   <br clear="both">
