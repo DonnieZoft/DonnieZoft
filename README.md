@@ -10,7 +10,7 @@
         </div>  
     <h2 align="center">Hello, my name is Donnie.</h2><br>
     <p align="center">I’m an aspiring developer from Berlin, Germany, with a background in education. My current focus is <b><i>web and application development</i></b>, where I am continually expanding my skills.</p><br><br>
-    <table background=".github/assets/ani-strip.svg">
+    <img background=".github/assets/ani-strip.svg">
     <tr width="250">
       <td align="center">hjhj</td>
     </tr>
