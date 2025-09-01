@@ -1,7 +1,7 @@
 <div align="center">
-  <img src=".github/assets/corner-top-left.svg"  width="80" height="80" alt=""><img
-  src=".github/assets/band-top-480.svg"         width="480" height="48" alt=""><img
-  src=".github/assets/corner-top-right.svg"     width="80" height="80" alt="">
+  <img src=".github/assets/corner-top-left.svg"  width="10%" height="80" alt=""><img
+  src=".github/assets/band-top-480.svg"         width="80%" height="48" alt=""><img
+  src=".github/assets/corner-top-right.svg"     width="10%" height="80" alt="">
 
   <img src=".github/assets/edge-left.svg"  align="left"  width="80" height="260" alt=""><img
   src=".github/assets/edge-right.svg" align="right" width="80" height="260" alt="">
