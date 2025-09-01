@@ -7,7 +7,7 @@
   <div width="80%" align="center">
     <h1 align="center">Hello, I'm Donnie. Passionate about coding, gaming & creating.</h1>
     <div align="center">
-      <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+      <img height="200" src=".github/assets/LogoDonnie.png"  />
     </div>   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
       <img width="12"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
