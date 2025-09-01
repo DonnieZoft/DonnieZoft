@@ -2,13 +2,13 @@
   <img src=".github/assets/corner-top-left.svg" valign="bottom" width="10%" height="80" alt=""><img
   src=".github/assets/edge-top.svg" valign="top" width="80%" height="48" alt=""><img
   src=".github/assets/corner-top-right.svg" valign="bottom" width="10%" height="80" alt="">
-  <img src=".github/assets/edge-left.svg" align="left"  width="10%" height="360" alt=""><img
-  src=".github/assets/edge-right.svg" align="right" width="10%" height="360" alt="">
+  <img src=".github/assets/edge-left.svg" align="left"  width="10%" height="560" alt=""><img
+  src=".github/assets/edge-right.svg" align="right" width="10%" height="560" alt="">
   <div width="80%" align="center">
-    <h1 align="center">Hello, I'm Donnie. Passionate about coding, gaming & creating.</h1>
-    <div align="center">
-      <img height="200" src=".github/assets/LogoDonnie.png"  />
-    </div>   
+        <div align="center">
+          <img height="200" src=".github/assets/LogoDonnie.png"  />
+        </div>  
+    <h1 align="center">Hello, I'm Donnie. Passionate about coding, gaming & creating.</h1> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
       <img width="12"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
         height="40" alt="HTML5"> <img width="12"> <img
