@@ -22,6 +22,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
     </div>
   </div>
+  <br>
   <div width="520">
     <img src=".github/assets/corner-bottom-left.svg"  width="10%" height="80" alt=""><!--
  --><img src=".github/assets/edge-bottom.svg"         width="80%" height="48" alt=""><!--
