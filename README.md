@@ -10,7 +10,7 @@
         </div>  
     <h2 align="center">Hello, my name is Donnie.</h2><br>
     <p align="center">I’m an aspiring developer from Berlin, Germany, with a background in education.  
-    Currently focusing on web and application development.</p>
+    Currently focusing on web and application development.<br><br>Always up to learning and experimenting with new technologies.</p>
     <br>
     <br>
     <br>
