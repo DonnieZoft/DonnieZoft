@@ -7,7 +7,7 @@
 <body bgcolor="black">
 <div align="center">
   <img src=".github/assets/band-top.svg" width="880" alt="">
-  <img width="80"><div align="center">
+  <div width="80"></div><div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
     <img width="12">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5">
@@ -21,7 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="MS-DOS">
     <img width="12">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
-  </div><img width="80">
+  </div><div width="80"></div>
   <br clear="both">
   <img src=".github/assets/band-bottom.svg" width="880" alt="">
 </div>
