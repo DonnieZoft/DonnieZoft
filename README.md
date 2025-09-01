@@ -2,9 +2,9 @@
   <div>
     <table width="520">
       <tr>
-    <img src=".github/assets/corner-top-left.svg" width="80" height="80" alt=""><!--
+    <img src=".github/assets/corner-top-left.svg" width="10%" height="80" alt=""><!--
  --><img src=".github/assets/edge-top.svg" valign="top" width="80%" height="48" alt=""><!--
- --><img src=".github/assets/corner-top-right.svg"   width="80"  height="80" alt="">
+ --><img src=".github/assets/corner-top-right.svg"   width="10%"  height="80" alt="">
       </tr>
     </table>
   </div>
