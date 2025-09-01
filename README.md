@@ -12,9 +12,10 @@
     <p align="center">I’m an aspiring developer from Berlin, Germany, with a background in education. My current focus is <b><i>web and application development</i></b>, where I am continually expanding my skills.</p><br><br>
     <table background=".github/assets/ani-strip.svg">
     <tr width="250">
-      <td align="center"><p align="justify">I enjoy getting to know new technologies and experimenting with creative solutions. In addition to coding, I enjoy gaming and streaming, where I connect with people and share my passion for interactive entertainment.</p></td>
+      <td align="center">hjhj</td>
     </tr>
     </table>
+    <p align="justify">I enjoy getting to know new technologies and experimenting with creative solutions. In addition to coding, I enjoy gaming and streaming, where I connect with people and share my passion for interactive entertainment.</p></td>
     <br>
     <br>
     <br>
