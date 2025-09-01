@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body bgcolor="black">
+<body bgcolor="black" cellspacing="0" cellpadding="0">
   <table width="100%" cellspacing="0" cellpadding="0">
     <tr>
       <td width="80" align="left" valign="bottom">
