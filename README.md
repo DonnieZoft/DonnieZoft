@@ -8,7 +8,6 @@
         <div align="center">
           <img height="200" src=".github/assets/LogoDonnie.png"  />
         </div>  
-    <br>
     <h2 align="center">Hello, my name is Donnie.</h2><br>
     <p align="center">I’m an aspiring developer from Berlin, Germany, with a background in education.  
     Currently focusing on web and application development.</p>
