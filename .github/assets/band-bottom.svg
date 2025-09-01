@@ -1,1 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 80">
+  <!-- Sichtbar ist nur der untere Streifen (48px) -->
+  <defs>
+    <clipPath id="botOnly"><rect x="0" y="32" width="680" height="48"></rect></clipPath>
+  </defs>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" clip-path="url(#botOnly)" vector-effect="non-scaling-stroke">
+    <!-- Bottom-Horizontale (Stroke-Mitten gespiegelt) -->
+    <path d="M 80 69 H 600" stroke="#2e39b3" stroke-width="6"></path>
+    <path d="M 80 58.5 H 600" stroke="#646ad6" stroke-width="5"></path>
+    <path d="M 80 46.5 H 600" stroke="#3746cc" stroke-width="5"></path>
+    <path d="M 80 35.5 H 600" stroke="#05abf7" stroke-width="3"></path>
 
+    <!-- Viertelbögen nach links (hinauf zur Seitenkante) -->
+    <path d="M 80 69 A 69 69 0 0 1 11 0" stroke="#2e39b3" stroke-width="6"></path>
+    <path d="M 80 58.5 A 59.5 59.5 0 0 1 20.5 0" stroke="#646ad6" stroke-width="5"></path>
+    <path d="M 80 46.5 A 47.5 47.5 0 0 1 32.5 0" stroke="#3746cc" stroke-width="5"></path>
+    <path d="M 80 35.5 A 36.5 36.5 0 0 1 43.5 0" stroke="#05abf7" stroke-width="3"></path>
+
+    <!-- Viertelbögen nach rechts (gespiegelt) -->
+    <path d="M 600 69 A 69 69 0 0 0 669 0" stroke="#2e39b3" stroke-width="6"></path>
+    <path d="M 600 58.5 A 59.5 59.5 0 0 0 659.5 0" stroke="#646ad6" stroke-width="5"></path>
+    <path d="M 600 46.5 A 47.5 47.5 0 0 0 647.5 0" stroke="#3746cc" stroke-width="5"></path>
+    <path d="M 600 35.5 A 36.5 36.5 0 0 0 636.5 0" stroke="#05abf7" stroke-width="3"></path>
+  </g>
+</svg>
