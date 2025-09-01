@@ -1,1 +1,34 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00B7FF"></stop>
+      <stop offset="50%" stop-color="#4C8DFF"></stop>
+      <stop offset="100%" stop-color="#7C4DFF"></stop>
+    </linearGradient>
+    <style>
+      .dash {
+        fill: none;
+        stroke: url(#neon);
+        stroke-width: 4;
+        stroke-linecap: round;
+        stroke-dasharray: 10 14;
+        animation: move 6s linear infinite;
+      }
+      @keyframes move {
+        to { stroke-dashoffset: -480; }
+      }
+    </style>
+  </defs>
+  <rect x="10" y="10" width="780" height="580" rx="22" class="dash"></rect>
+  <foreignObject x="40" y="40" width="720" height="520">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; flex-direction: column; align-items: center;
+                width: 100%; height: 100%; font-family: sans-serif; color: white;">
+      <h2 style="text-align: center; margin: 0 0 20px 0;">Fields of Interest</h2>
+      <p style="text-align: justify; font-size: 16px; line-height: 1.4; margin: 0; max-width: 90%;">
+        I enjoy getting to know new technologies and experimenting with creative solutions.
+        In addition to coding, I enjoy gaming and streaming, where I connect with people
+        and share my passion for interactive entertainment.
+      </p>
+    </div>
+  </foreignObject>
+</svg>
