@@ -9,7 +9,9 @@
           <img height="200" src=".github/assets/LogoDonnie.png"  />
         </div>  
     <br>
-    <b align="center">##Hello, I'm Donnie. Passionate about coding, gaming & creating.</b>
+    <h2 align="center">Hello, my name is Donnie.</h><br>
+    <p align="center">I’m an aspiring developer from Berlin, Germany, with a background in education.  
+    Currently focusing on web and application development.</p>
     <br>
     <br>
     <br>
