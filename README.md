@@ -9,8 +9,6 @@
 
 <body bgcolor="black">
   <table width="100%" cellspacing="0" cellpadding="0">
-
-    <!-- TOP -->
     <tr>
       <td width="80" align="left" valign="bottom">
         <img src="./assets/corner-top-left.svg" width="80" height="80" alt="">
@@ -22,13 +20,9 @@
         <img src="./assets/corner-top-right.svg" width="80" height="80" alt="">
       </td>
     </tr>
-
-    <!-- MITTE -->
     <tr>
       <td width="80" valign="top" align="left" background="./assets/edge-left.svg">
-        <!-- <img src="./assets/edge-left.svg" width="48" height="480" alt=""> -->
       </td>
-      <!-- CENTER -->
       <td valign="top">
         <div align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"
@@ -53,11 +47,8 @@
             alt="python logo" />
       </td>
       <td width="80" valign="top" align="right" background="./assets/edge-right.svg">
-        <!-- <img src="./assets/edge-right.svg" width="48" height="480" alt=""> -->
       </td>
     </tr>
-
-    <!-- BOTTOM -->
     <tr>
       <td width="80" align="left" valign="bottom">
         <img src="./assets/corner-bottom-left.svg" width="80" height="80" alt="">
