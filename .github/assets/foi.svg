@@ -19,8 +19,8 @@
       }
     </style>
   </defs>
-  <rect x="10" y="10" width="780" height="280" rx="22" class="dash"></rect>
-  <foreignObject x="40" y="40" width="720" height="520">
+  <rect x="10" y="10" width="780" height="180" rx="22" class="dash"></rect>
+  <foreignObject x="40" y="40" width="720" height="190">
     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; flex-direction: column; align-items: center;
                 width: 100%; height: 100%; font-family: sans-serif; color: white;">
       <h2 style="text-align: center; margin: 0 0 20px 0;">Fields of Interest</h2>
