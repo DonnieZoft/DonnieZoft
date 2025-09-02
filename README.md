@@ -1,17 +1,7 @@
 <div width="600" align="center">
-    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
-  <tr>
-    <td align="right"  width="10%" valign="bottom">
-      <img src=".github/assets/corner-top-left.svg" valign="bottom" width="10%" height="80" alt="">
-    </td>
-    <td align="center" width="80%" valign="top">
-      <img src=".github/assets/edge-top.svg" valign="top" width="80%" height="48" alt="">
-    </td>
-    <td align="left"   width="10%" valign="bottom">
-      <img src=".github/assets/corner-top-right.svg" valign="bottom" width="10%" height="80" alt="">
-    </td>
-  </tr>
-  </table>  
+<img src=".github/assets/corner-top-left.svg" valign="bottom" width="10%" height="80" alt=""><img
+  src=".github/assets/edge-top.svg" valign="top" width="80%" height="48" alt=""><img
+  src=".github/assets/corner-top-right.svg" valign="bottom" width="10%" height="80" alt="">
   <img src=".github/assets/edge-left.svg" align="left"  width="10%" height="860" alt=""><img
   src=".github/assets/edge-right.svg" align="right" width="10%" height="860" alt="">
   <div width="80%" align="center">
