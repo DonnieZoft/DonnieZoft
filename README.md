@@ -1,4 +1,4 @@
-<div align="center">
+<div width="600" align="center">
     <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
   <tr>
     <td align="right"  width="10%" valign="bottom">
