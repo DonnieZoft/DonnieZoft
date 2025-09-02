@@ -1,6 +1,6 @@
 <div align="center">
   <img src=".github/assets/corner-top-left.svg" valign="bottom" width="10%" height="80" alt=""><img
-  src=".github/assets/edge-top.svg" valign="top" width="80%" height="48" alt=""><img
+  src=".github/assets/edge-top.svg" valign="bottom" width="80%" height="48" alt=""><img
   src=".github/assets/corner-top-right.svg" valign="bottom" width="10%" height="80" alt="">
   <img src=".github/assets/edge-left.svg" align="left"  width="10%" height="860" alt=""><img
   src=".github/assets/edge-right.svg" align="right" width="10%" height="860" alt="">
@@ -10,6 +10,7 @@
         </div>  
     <h2 align="center">Hello, my name is Donnie.</h2><br>
     <p align="center">I’m an aspiring developer from Berlin, Germany, with a background in education. My current focus is <b><i>web and application development</i></b>, where I am continually expanding my skills.</p><br><br>
+    <span 
     <p align="justify">I enjoy getting to know new technologies and experimenting with creative solutions. In addition to coding, I enjoy gaming and streaming, where I connect with people and share my passion for interactive entertainment.</p></td>
     <br>
     <br>
