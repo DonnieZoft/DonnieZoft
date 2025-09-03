@@ -1,7 +1,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="10%"><img src=".github/assets/corner-top-left.svg" height="80" alt=""></td>
-    <td width="80%"><img src=".github/assets/edge-top.svg" height="48" alt=""></td>
+    <td width="80%"><img src=".github/assets/edge-top.svg" height="48" align="bottom" alt=""></td>
     <td width="10%"><img src=".github/assets/corner-top-right.svg" height="80" alt=""></td>
   </tr>
   <tr>
