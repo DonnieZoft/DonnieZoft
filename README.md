@@ -4,6 +4,8 @@
   src=".github/assets/edge-right.svg" align="right" width="10%" height="860" alt="">
   <div width="80%" align="center">
         <div align="center">
+          <br>
+          <br>
           <img height="200" src=".github/assets/LogoDonnie.png"  />
         </div>  
     <h2 align="center">Hello, my name is Donnie.</h2><br>
